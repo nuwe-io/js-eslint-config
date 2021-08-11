@@ -18,11 +18,10 @@
   "homepage": "https://github.com/nuwe-io/js-eslint-config#readme",
   "peerDependencies": {
     "@babel/core": ">= 7.14",
-    "eslint": ">= 7"
+    "eslint": "^7.32.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.14.6",
-    "eslint": "^7.28.0"
+    "@babel/core": "^7.14.6"
   },
   "dependencies": {
     "@babel/eslint-parser": "^7.14.5",

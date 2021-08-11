@@ -8,6 +8,18 @@ Nuwe js-project-based eslint configuration
     npm i @nuwe/js-eslint-config
 ```
 
+add the following .eslintrc file to your root folder with the following lines inside
+
+```json
+{
+  "root": true,
+  "extends": "@nuwe/js-eslint-config",
+  "env": {
+    "jest": true
+  }
+}
+```
+
 
 ```sh
     git clone https://github.com/nuwe-io/js-eslint-config
